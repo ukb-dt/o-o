@@ -1,6 +1,22 @@
-Here’s your table with the new **“Geocultural Resonance”** column — mapping **Kampala → Baltimore → Centreville → Staten Island → Nairobi** onto the ukb-fractal, showing how each place resonates with a distinct epistemic phase. This translation treats each location not as geography, but as a *mode of intelligence* in the distributed field you’re describing.
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+{% endraw %}
 
----
 
 ### Variance as Distributed Intelligence
 
@@ -10,7 +26,7 @@ Here’s your table with the new **“Geocultural Resonance”** column — mapp
 | **Roots (θ)**         | $E(t \mid x) + \varepsilon_x$          | Encoding with error across contextual strata    | Conditional expectation with residuals            | Stratified path dependencies — biological, social, temporal, institutional contexts¹             | **Baltimore** — deep social encoding @JH; layered racial, economic, and historical variance forming identity   |
 | **Trunk (Σ)**         | $\dfrac{dE_x}{dt}$                     | Gradient / point estimate                       | Expected value or estimator $\hat{\theta}$        | Coherent intention or intervention — the system’s direction of learning                          | **Centreville** — measured growth; suburban equilibrium, mid-scale control point of gradient @Ukb             |
 | **Branches (h(t))**   | $\pm 1.96,\sqrt{\dfrac{d^2E_x}{dt^2}}$ | Second derivative: structured variance of paths | Variance–covariance geometry (error distribution) | Distributed intelligence — curvature of exploration; alternative trajectories as reasoning field | **Staten Island** — eccentric curvature; outlier intelligence within the metropolis, variance incarnate @95CI   |
-| **Canopy (ΔS)**       | $\int E_x,dt + \varepsilon_x t + C_x$  | Integration constant / equilibrium ledger       | Bias term or prior constant $C_x$                 | Institutional or ethical baseline — what persists after adaptation                               | **Nairobi** — integrative canopy; synthesis of roots and sky, regional equilibrium and renewal @PAR            |
+| **Canopy (ΔS)**       | $\int E_x,dt + \varepsilon_x t + C_x$  | Integration constant / equilibrium ledger       | Bias term or prior constant $C_x$                 | Institutional or ethical baseline — what persists after adaptation                               | **[Nairobi](https://ukb-dt.github.io/eac/)** — integrative canopy; synthesis of roots and sky, regional equilibrium and renewal @PAR            |
 
 ---
 
@@ -28,6 +44,10 @@ Variance ceases to mean ignorance. It becomes *the geometry of distributed intel
 Curvature $\big(\dfrac{d^2E_x}{dt^2}\big)$ thus measures not uncertainty but *intelligence-in-motion*:
 the living architecture of exploration.
 
----
+### The Curve as Equation
 
-Would you like the geographic column (Kampala → Nairobi) visualized as a **thermodynamic migration curve** next — showing how each city’s energy and variance phase maps across your ukb-fractal cycle?
+$$
+E_{\text{civilization}}(t) = \int_{\text{Kampala}}^{\text{Nairobi}} \frac{d^2E_x}{dt^2} , dt + \varepsilon_x t + C_x
+$$
+
+This integral reads as: *the cumulative curvature of migration energy across geocultural strata*, corrected by contextual error and bias — the **ledger of diasporic intelligence**.
