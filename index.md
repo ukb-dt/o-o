@@ -30,12 +30,11 @@
 
 
 ¹ *Example:* In a study of **living kidney donors vs. healthy non-donor controls**:   
-
-   – the **soil** is the origin of data and thermodynamic intake of the system; every subsequent phase is a refinement;         
-   – the **roots** encode conditional energies $E(t \mid x),+,\varepsilon_x$ for each group;        
-   – the **trunk** is the gradient (observed outcome difference);        
-   – the **branches** express the structured variance of both trajectories; and,         
-   – the **canopy** integrates their equilibrium risk difference — the *attribution of causality*.            
+– the **soil** is the origin of data and thermodynamic intake of the system; every subsequent phase is a refinement;         
+– the **roots** encode conditional energies $E(t \mid x),+,\varepsilon_x$ for each group;        
+– the **trunk** is the gradient (observed outcome difference);        
+– the **branches** express the structured variance of both trajectories; and,         
+– the **canopy** integrates their equilibrium risk difference — the *attribution of causality*.            
 
 Now the notation is internally consistent:
 
