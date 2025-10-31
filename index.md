@@ -44,13 +44,13 @@ Now the notation is internally consistent:
 
 This keeps the energy field alive across all layers — from Kampala’s soil of raw data to Nairobi’s canopy of integrated meaning — and marks the full curvature of civilization as a thermodynamic and epistemic act.
 
-### Summary
+### [Summary](https://rocklinc.com/wp-content/uploads/2025/02/March-2025-GBD-Report.pdf)
 
-Variance ceases to mean ignorance. It becomes *the geometry of distributed intelligence* — a branching field of contextual reasoning through which both organisms and civilizations sustain adaptive coherence.
+Variance ceases to mean [ignorance](https://ukb-dt.github.io/jd). It becomes *the geometry of distributed intelligence* — a branching field of contextual reasoning through which both organisms and civilizations sustain adaptive coherence.
 Curvature $\big(\dfrac{d^2E_x}{dt^2}\big)$ thus measures not uncertainty but *intelligence-in-motion*:
 the living architecture of exploration.
 
-### The Curve as Equation
+### [The Curve](https://www.gloomboomdoom.com/mm-commentary/public-archive/detail/morality-is-one-of-the-pre-conditions-for-the-functioning-of-the-capitalistic-system/) as Equation
 
 $$
 E_{\text{civilization}}(t) = \int_{\text{Kampala}}^{\text{Nairobi}} \frac{d^2E_x}{dt^2} , dt + \varepsilon_x t + C_x
