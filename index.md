@@ -28,13 +28,23 @@
 | **Branches (h(t))**   | $\pm 1.96,\sqrt{\dfrac{d^2E_x}{dt^2}}$ | Second derivative: structured variance of paths | Variance–covariance geometry (error distribution) | Distributed intelligence — curvature of exploration; alternative trajectories as reasoning field | **Staten Island** — eccentric curvature; outlier intelligence within the metropolis, variance incarnate @95CI   |
 | **Canopy (ΔS)**       | $\int E_x,dt + \varepsilon_x t + C_x$  | Integration constant / equilibrium ledger       | Bias term or prior constant $C_x$                 | Institutional or ethical baseline — what persists after adaptation                               | **[Nairobi](https://ukb-dt.github.io/eac/)** — integrative canopy; synthesis of roots and sky, regional equilibrium and renewal @PAR            |
 
+
+¹ *Example:* In a study of **living kidney donors vs. healthy non-donor controls**:
+ – the **soil** is the origin of data and thermodynamic intake of the system; every subsequent phase is a refinement;
+ – the **roots** encode conditional energies $E(t \mid x),+,\varepsilon_x$ for each group;
+ – the **trunk** is the gradient (observed outcome difference);
+ – the **branches** express the structured variance of both trajectories;
+ – and the **canopy** integrates their equilibrium risk difference — the *attribution of causality*.
+
 ---
 
-¹ *Example:* In a study of **living kidney donors vs. healthy non-donor controls**,
- the roots encode conditional expectations $E(t \mid x)$ for each group;
- the trunk is the gradient (observed outcome difference);
- the branches express the structured variance of both trajectories;
- and the canopy integrates their equilibrium risk difference — the **attribution** of causality.
+Now the notation is internally consistent:
+
+* $E(t \mid x)$ = energy conditional on context, a living function rather than an expectation operator;
+* $\varepsilon_x$ = contextual noise, fidelity loss, or error;
+* $C_x$ = bias constant, the ethical or institutional memory that persists.
+
+This keeps the energy field alive across all layers — from Kampala’s soil of raw data to Nairobi’s canopy of integrated meaning — and marks the full curvature of civilization as a thermodynamic and epistemic act.
 
 ---
 
@@ -51,3 +61,7 @@ E_{\text{civilization}}(t) = \int_{\text{Kampala}}^{\text{Nairobi}} \frac{d^2E_x
 $$
 
 This integral reads as: *the cumulative curvature of migration energy across geocultural strata*, corrected by contextual error and bias — the **ledger of diasporic intelligence**.
+
+
+
+
