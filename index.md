@@ -29,14 +29,12 @@
 | **Canopy (ΔS)**       | $\int E_x,dt + \varepsilon_x t + C_x$  | Integration constant / equilibrium ledger       | Bias term or prior constant $C_x$                 | Institutional or ethical baseline — what persists after adaptation                               | **[Nairobi](https://ukb-dt.github.io/eac/)** — integrative canopy; synthesis of roots and sky, regional equilibrium and renewal @PAR            |
 
 
-¹ *Example:* In a study of **living kidney donors vs. healthy non-donor controls**:
- – the **soil** is the origin of data and thermodynamic intake of the system; every subsequent phase is a refinement;
- – the **roots** encode conditional energies $E(t \mid x),+,\varepsilon_x$ for each group;
- – the **trunk** is the gradient (observed outcome difference);
- – the **branches** express the structured variance of both trajectories;
- – and the **canopy** integrates their equilibrium risk difference — the *attribution of causality*.
-
----
+¹ *Example:* In a study of **living kidney donors vs. healthy non-donor controls**:           
+    – the **soil** is the origin of data and thermodynamic intake of the system; every subsequent phase is a refinement;     
+    – the **roots** encode conditional energies $E(t \mid x),+,\varepsilon_x$ for each group;    
+    – the **trunk** is the gradient (observed outcome difference);        
+    – the **branches** express the structured variance of both trajectories; and,         
+    – the **canopy** integrates their equilibrium risk difference — the *attribution of causality*.            
 
 Now the notation is internally consistent:
 
@@ -45,8 +43,6 @@ Now the notation is internally consistent:
 * $C_x$ = bias constant, the ethical or institutional memory that persists.
 
 This keeps the energy field alive across all layers — from Kampala’s soil of raw data to Nairobi’s canopy of integrated meaning — and marks the full curvature of civilization as a thermodynamic and epistemic act.
-
----
 
 ### Summary
 
