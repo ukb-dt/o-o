@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-Variance as Distributed Intelligence**, fully aligned with our calculus and narrative aesthetics:
+Variance as Distributed Intelligence, fully aligned with our calculus and narrative aesthetics:
 
 | **Ukb-Fractal Phase** | **Symbol / Expression**                                                              | **Epistemic Role**                                  | **Statistical Analogue**                             | **Interpretation / Legacy**                                                                                 |
 | :-------------------- | :----------------------------------------------------------------------------------- | :-------------------------------------------------- | :--------------------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
