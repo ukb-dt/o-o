@@ -17,7 +17,7 @@
 </script>
 {% endraw %}
 
-# [O)-(O](https://ukb-dt.github.io/gan/)
+[#](https://ukb-dt.github.io/o-ukb-o/) [O)-(O](https://ukb-dt.github.io/gan/)
 ### Variance as [Distributed](https://ukb-dt.github.io/45yo/) Intelligence
 
 | **Ukb-Fractal Phase** | **Symbol / Expression**                | **Epistemic Role**                              | **Statistical Analogue**                          | **Interpretation / Legacy**                                                                      | **Geocultural Resonance**                                                                                                              | **[Ontological](https://ukb-dt.github.io/ns/) Layer**                                                                       | **Physical Expression (Airport Anatomy)**                | **Metabolic Function**                                               |
