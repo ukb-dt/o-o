@@ -18,7 +18,7 @@
 {% endraw %}
 
 # [O)-(O](https://ukb-dt.github.io/gan/)
-### [Variance](https://ukb-dt.github.io/o-III-o/) as [Distributed](https://ukb-dt.github.io/45yo/) Intelligence
+### [Variance](https://ukb-dt.github.io/o-III-o/) as [Distributed](https://ukb-dt.github.io/45yo/) [Intelligence](https://ukb-dt.github.io/if/)
 
 | **Ukb-Fractal Phase** | **[Symbol](https://ukb-dt.github.io/o-ukb-o/) / Expression**                | **Epistemic Role**                              | **Statistical Analogue**                          | **Interpretation / Legacy**                                                                      | **Geocultural Resonance**                                                                                                              | **[Ontological](https://ukb-dt.github.io/ns/) Layer**                                                                       | **Physical Expression (Airport Anatomy)**                | **[Metabolic](https://ukb-dt.github.io/o-mapk-o/) Function**                                               |
 | :-------------------- | :------------------------------------- | :---------------------------------------------- | :------------------------------------------------ | :----------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :------------------------------------------------------- | :------------------------------------------------------------------- |
